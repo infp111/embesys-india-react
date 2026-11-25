@@ -1,0 +1,494 @@
+[
+ {
+  "tab": "SolidWorks",
+  "items": [
+   {
+    "title": "3D CAD",
+    "brand": "SolidWorks",
+    "desc": "SOLIDWORKS 3D CAD solutions enable you and your team to quickly transform...",
+    "img": "/media/2023/01/SOLIDWORKS-Premium.webp",
+    "href": "https://embesysindia.com/3d-cad/"
+   },
+   {
+    "title": "SolidWorks MBD",
+    "brand": "SolidWorks",
+    "desc": "Define, organize, and publish 3D annotations, including 3D model data...",
+    "img": "/media/2023/08/SolidWorks-mbd-update.webp",
+    "href": "https://embesysindia.com/solidworks-mbd-2/"
+   },
+   {
+    "title": "SolidWorks Electrical Schematic",
+    "brand": "SolidWorks",
+    "desc": "SOLIDWORKS® Electrical Schematic packages provide standalone...",
+    "img": "/media/2023/08/SWs-Electrical-Schematic.webp",
+    "href": "https://embesysindia.com/solidworks-electrical-schematic/"
+   },
+   {
+    "title": "SolidWorks Electrical 3D",
+    "brand": "SolidWorks",
+    "desc": "SOLIDWORKS® Electrical 3D enables you to easily integrate your electrical schematic...",
+    "img": "/media/2023/08/SWs-Electrical-3D.webp",
+    "href": "https://embesysindia.com/solidworks-electrical-3d"
+   },
+   {
+    "title": "SolidWorks Electrical Professional",
+    "brand": "SolidWorks",
+    "desc": "SOLIDWORKS® Electrical Professional combines the electrical schematic design...",
+    "img": "/media/2023/08/SWsElectrical-Professional.webp",
+    "href": "https://embesysindia.com/solidworks-electrical-professional/"
+   },
+   {
+    "title": "SolidWorks Enterprise Product Data Management",
+    "brand": "SolidWorks",
+    "desc": "Easily find and re-purpose files, parts, and drawings; share design information...",
+    "img": "/media/2023/01/SOLIDWORKS-PDM.webp",
+    "href": "https://embesysindia.com/solidworks-pdm/"
+   },
+   {
+    "title": "SolidWorks Inspection",
+    "brand": "SolidWorks",
+    "desc": "Reduce the time needed to create inspection documentation, helping to eliminate...",
+    "img": "/media/2023/08/SolidWorks-Inspection-update.webp",
+    "href": "https://embesysindia.com/solidworks-inspection/"
+   },
+   {
+    "title": "SolidWorks Composer",
+    "brand": "SolidWorks",
+    "desc": "Easily repurpose existing 3D models to rapidly create and update high-quality...",
+    "img": "/media/2023/08/Solidworks-Composer.webp",
+    "href": "https://embesysindia.com/solidworks-composer/"
+   },
+   {
+    "title": "SOLIDWORKS Simulation",
+    "brand": "SolidWorks",
+    "desc": "Subject your designs to real world conditions to raise product quality while...",
+    "img": "/media/2023/01/SOLIDWORKS-Simulation.webp",
+    "href": "https://embesysindia.com/solidworks-simulation/"
+   },
+   {
+    "title": "3D EXPERIENCE",
+    "brand": "SolidWorks",
+    "desc": "The 3DEXPERIENCE Works Portfolio Of Cloud Solutions Brings...",
+    "img": "/media/2023/03/3DEXPERIENCE.webp",
+    "href": "https://embesysindia.com/3dexperience/"
+   }
+  ]
+ },
+ {
+  "tab": "National Instruments",
+  "items": [
+   {
+    "title": "What Is myDAQ?",
+    "brand": "NI",
+    "desc": "myDAQ introduces students to engineering problem-solving with portable ...",
+    "img": "/media/2022/12/myDAQ.webp",
+    "href": "https://embesysindia.com/mydaq/"
+   },
+   {
+    "title": "What Is myRIO?",
+    "brand": "NI",
+    "desc": "myRIO provides educators with an embedded, WiFi-enabled solution to ...",
+    "img": "/media/2022/12/myRIO.webp",
+    "href": "https://embesysindia.com/myrio/"
+   },
+   {
+    "title": "What Is NI ELVIS?",
+    "brand": "NI",
+    "desc": "The NI Engineering Laboratory Virtual Instrumentation Suite (NI ELVIS) Engineering ...",
+    "img": "/media/2022/12/NI-ELVIS-III.webp",
+    "href": "https://embesysindia.com/elvis-iii/"
+   },
+   {
+    "title": "Virtualbench All In One Instrument",
+    "brand": "NI",
+    "desc": "The VirtualBench hardware family currently consists of three models most easily ...",
+    "img": "/media/2022/12/NI-Virtual-Bench.webp",
+    "href": "https://embesysindia.com/virtualbench-all-in-one-instrument/"
+   },
+   {
+    "title": "NI ETTUS USRP",
+    "brand": "NI",
+    "desc": "USRP (Universal Software Radio Peripheral) devices are industry-leading commercial ...",
+    "img": "/media/2022/12/NI-USRP.webp",
+    "href": "https://embesysindia.com/ni-usrp-product-flye/"
+   },
+   {
+    "title": "CompactDAQ",
+    "brand": "NI",
+    "desc": "A modular data acquisition system for analog, digital, and sensor-based measurements...",
+    "img": "/media/2022/12/NI-Compact-DAQ.webp",
+    "href": "https://embesysindia.com/compactdaq-cdaq-system/"
+   },
+   {
+    "title": "CompactRIO Systems",
+    "brand": "NI",
+    "desc": "Build and deploy real-time applications with signal-conditioned I/O modules using an ...",
+    "img": "/media/2022/12/CompactRIO-1.webp",
+    "href": "https://embesysindia.com/compactrio-systems/"
+   },
+   {
+    "title": "NI PXI Systems",
+    "brand": "NI",
+    "desc": "Achieve high accuracy, high productivity, and higher speeds with the standard for ...",
+    "img": "/media/2022/12/NI-PXI-System.webp",
+    "href": "https://embesysindia.com/ni-pxi-systems-v2/"
+   },
+   {
+    "title": "LabView",
+    "brand": "NI",
+    "desc": "LabVIEW is a graphical programming environment engineers use to develop automated ...",
+    "img": "/media/2022/12/labview.webp",
+    "href": "https://embesysindia.com/labview-2/"
+   },
+   {
+    "title": "FlexLogger",
+    "brand": "NI",
+    "desc": "Fast, Flexible, No-Code Data Acquisition Software...",
+    "img": "/media/2022/12/NI-Flexlogger.webp",
+    "href": "https://embesysindia.com/flexlogger/"
+   },
+   {
+    "title": "TestStand",
+    "brand": "NI",
+    "desc": "TestStand is a test executive and rapid deployment framework that automates ...",
+    "img": "/media/2022/12/TestStand.webp",
+    "href": "https://embesysindia.com/teststand/"
+   },
+   {
+    "title": "DIAdem",
+    "brand": "NI",
+    "desc": "Measurement Data Analytics Software...",
+    "img": "/media/2022/12/DIAdem.webp",
+    "href": "https://embesysindia.com/diadem/"
+   },
+   {
+    "title": "5G And 6G Evolution",
+    "brand": "NI",
+    "desc": "Cellular technology evolves quickly—5G rollouts and enhancements are progressing ...",
+    "img": "/media/2022/12/5G-6g-Solutions-.webp",
+    "href": "https://embesysindia.com/5g-6g-solutions/"
+   },
+   {
+    "title": "What Are NI Vision Systems?",
+    "brand": "NI",
+    "desc": "NI Vision systems consist of cameras for image acquisition and controllers for ...",
+    "img": "/media/2022/12/NI-Vision-Systems.webp",
+    "href": "https://embesysindia.com/vision-based-solutions"
+   },
+   {
+    "title": "Battery Test System",
+    "brand": "NI",
+    "desc": "This webinar will show how to scale test operations with NHR and the Battery Test System ...",
+    "img": "/media/2022/12/Battery-Test-System.webp",
+    "href": "https://embesysindia.com/battery-test-system/"
+   },
+   {
+    "title": "Hardware in Loop",
+    "brand": "NI",
+    "desc": "Learn how HIL simulation is the solution for scaling your automotive test system ...",
+    "img": "/media/2022/12/Hardware-in-Loop.webp",
+    "href": "https://embesysindia.com/hardware-in-loop/"
+   },
+   {
+    "title": "Electric Vehicle Test",
+    "brand": "NI",
+    "desc": "Expanding requirements and unprecedented business constraints presents serious ...",
+    "img": "/media/2022/12/Electric-Vehicle-Test-.webp",
+    "href": "https://embesysindia.com/electric-vehicle-test/"
+   }
+  ]
+ },
+ {
+  "tab": "CAMWorks",
+  "items": [
+   {
+    "title": "2.5 Axis Milling",
+    "brand": "CAMWorks",
+    "desc": "2.5 Axis Milling Includes Automatic Roughing, Finishing, Thread Milling...",
+    "img": "/media/2023/01/Feature-Based-Machining-f.webp",
+    "href": "https://embesysindia.com/2-5-axis-milling/"
+   },
+   {
+    "title": "3 Axis Milling",
+    "brand": "CAMWorks",
+    "desc": "3 Axis Milling Routines To Machine Complex, Contoured Surfaces Routinely...",
+    "img": "/media/2023/01/3-Axis-Milling.webp",
+    "href": "https://embesysindia.com/3-axis-milling/"
+   },
+   {
+    "title": "Multi-Axis Milling",
+    "brand": "CAMWorks",
+    "desc": "With CAMWorks Multiaxis Machining Software, Take Advantage Of 4/5...",
+    "img": "/media/2023/01/Machine-Complex-Parts.webp",
+    "href": "https://embesysindia.com/multi-axis-milling/"
+   },
+   {
+    "title": "Mill-Turn",
+    "brand": "CAMWorks",
+    "desc": "CAMWorks Mill-Turn Provides A Solution For Both Milling And Turning On...",
+    "img": "/media/2023/01/1-PrimeTurning-Virtual-V1.webp",
+    "href": "https://embesysindia.com/mill-turn/"
+   },
+   {
+    "title": "Turning",
+    "brand": "CAMWorks",
+    "desc": "Program CNC Lathe Machines Including Automatic Roughing, Finishing, Grooving...",
+    "img": "/media/2023/01/OD_ID_Turning.webp",
+    "href": "https://embesysindia.com/turning/"
+   },
+   {
+    "title": "Wire EDM",
+    "brand": "CAMWorks",
+    "desc": "Fully Integrated Into SolidWorks, Providing A More Intuitive, Automatic...",
+    "img": "/media/2023/01/Wire-EDM.webp",
+    "href": "https://embesysindia.com/wire-edm/"
+   }
+  ]
+ },
+ {
+  "tab": "Materialise",
+  "items": [
+   {
+    "title": "Magics 3D Print Suite",
+    "brand": "Materialise",
+    "desc": "Your production receives a vast range of requests on a daily basis...",
+    "img": "/media/2023/01/Materialise-Magics-3D-Print-Suite.webp",
+    "href": "https://embesysindia.com/magics-3d-print-suite/"
+   },
+   {
+    "title": "Materialise Storefront",
+    "brand": "Materialise",
+    "desc": "Reach your customers with a solution that caters specifically to...",
+    "img": "/media/2023/01/Materialise-Storefront.webp",
+    "href": "https://embesysindia.com/materialise-storefront/"
+   },
+   {
+    "title": "Materialise Magics",
+    "brand": "Materialise",
+    "desc": "Without the right software, making a 3D design file printable takes a lot...",
+    "img": "/media/2023/01/Materialise-Magics.webp",
+    "href": "https://embesysindia.com/materialise-magics/"
+   },
+   {
+    "title": "Materialise Build Processor",
+    "brand": "Materialise",
+    "desc": "Before 3D printing a part, you need a solution that communicates part data in...",
+    "img": "/media/2023/01/Materialise-Build-Processor.webp",
+    "href": "https://embesysindia.com/materialise-build-processor/"
+   },
+   {
+    "title": "Materialise MES",
+    "brand": "Materialise",
+    "desc": "Optimize your downstream additive manufacturing (AM) processes to streamline...",
+    "img": "/media/2023/01/Materialise-Manufacturing-Execution-System.webp",
+    "href": "https://embesysindia.com/materialise-manufacturing-execution-system-mes/"
+   },
+   {
+    "title": "Materialise Mimics Innovation Suite",
+    "brand": "Materialise",
+    "desc": "Mimics Innovation Suite (MIS) makes using 3D medical image data easy...",
+    "img": "/media/2023/01/Materialise-Mimics-Innovation-Suite.webp",
+    "href": "https://embesysindia.com/materialise-mimics-innovation-suite/"
+   },
+   {
+    "title": "Orthopaedic Solutions For Healthcare Professionals",
+    "brand": "Materialise",
+    "desc": "Enhance surgical outcomes from standard to stand-out cases with 2D and 3D...",
+    "img": "/media/2023/01/Orthopaedic-Solutions-for-Healthcare-Professionals.webp",
+    "href": "https://embesysindia.com/orthopaedic-solutions-for-healthcare-professionals/"
+   }
+  ]
+ },
+ {
+  "tab": "Additive Manufacturing",
+  "items": [
+   {
+    "title": "Form 4BL",
+    "brand": "Formlabs",
+    "desc": "Form 4BL is a high-speed, large-format healthcare 3D printer using biocompatible, sterilizable materials to rapidly create anatomical models and medical devices with reliable performance and excellent quality...",
+    "img": "/media/2025/09/4-2.webp",
+    "href": "https://embesysindia.com/form-4bl/"
+   },
+   {
+    "title": "Form 4B",
+    "brand": "Formlabs",
+    "desc": "Form 4B is a high-speed dental 3D printer designed for dentistry and orthodontics, producing precise models and biocompatible appliances with advanced MSLA technology, offering speed, precision, and reliability...",
+    "img": "/media/2025/09/5-1.webp",
+    "href": "https://embesysindia.com/form-4b/"
+   },
+   {
+    "title": "FX10",
+    "brand": "Markforged",
+    "desc": "FX10 is an advanced industrial 3D printer for metal and composite parts, featuring a heated chamber, automated spool changeover, and smart sensors, delivering fast, precise, repeatable results with built-in calibration...",
+    "img": "/media/2025/09/7-1.webp",
+    "href": "https://embesysindia.com/fx10/"
+   },
+   {
+    "title": "FX20",
+    "brand": "Markforged",
+    "desc": "FX20 is a large-format industrial 3D printer featuring an 84L heated chamber, high-speed print head, turbo mode, automated calibration, touchscreen control, and a four-spool material bay with moisture control...",
+    "img": "/media/2025/09/8-1.webp",
+    "href": "https://embesysindia.com/fx20/"
+   },
+   {
+    "title": "Mark Two",
+    "brand": "Markforged",
+    "desc": "Mark Two is a carbon fiber 3D printer that produces parts 26x stronger than ABS, delivering reliable, same-day tooling and fixtures at a fraction of the cost of machined aluminum...",
+    "img": "/media/2025/09/9-1.webp",
+    "href": "#"
+   },
+   {
+    "title": "Metal X",
+    "brand": "Markforged",
+    "desc": "Metal X is an accessible metal 3D printer that fabricates complex, durable parts in a wide range of advanced materials from stainless steel to copper...",
+    "img": "/media/2025/09/11-1.webp",
+    "href": "#"
+   },
+   {
+    "title": "X7",
+    "brand": "Markforged",
+    "desc": "X7 is a carbon fiber 3D printer that delivers industrial-grade parts in hours, helping engineers and designers accelerate manufacturing operations...",
+    "img": "/media/2025/09/X7.webp",
+    "href": "#"
+   },
+   {
+    "title": "2Create Plus",
+    "brand": "2oneLab",
+    "desc": "2Create Plus is a compact, high-precision metal 3D printer with a 150 × 150 mm build area and 400 W laser, designed for demanding dental, medical, and industrial applications...",
+    "img": "/media/2025/09/2_create_plus.webp",
+    "href": "#"
+   },
+   {
+    "title": "2Create",
+    "brand": "2oneLab",
+    "desc": "2Create is an LPBF-based metal 3D printer from 2oneLab that delivers high-precision, cost-effective parts for dental and industrial applications...",
+    "img": "/media/2025/09/2_create.webp",
+    "href": "#"
+   }
+  ]
+ },
+ {
+  "tab": "OPAL-RT",
+  "items": [
+   {
+    "title": "RT-LAB",
+    "brand": "OPAL-RT",
+    "desc": "Fully integrated with MATLAB/Simulink®, RT-LAB...",
+    "img": "/media/2023/02/rt-lab.webp",
+    "href": "https://embesysindia.com/rt-lab/"
+   },
+   {
+    "title": "Hypersim",
+    "brand": "OPAL-RT",
+    "desc": "Power Grids Are Undergoing Dramatic Increases In Complexity...",
+    "img": "/media/2023/02/Hypersim.webp",
+    "href": "https://embesysindia.com/hypersim/"
+   },
+   {
+    "title": "NI VeriStand",
+    "brand": "OPAL-RT",
+    "desc": "Our Partnership With National Instruments Allows OPAL-RT’s FPGA...",
+    "img": "/media/2023/02/VeriStand.webp",
+    "href": "https://embesysindia.com/ni-veristand/"
+   },
+   {
+    "title": "OP4512 SIMULATOR",
+    "brand": "OPAL-RT",
+    "desc": "The OP4512 Is A Compact, Entry-Level Simulator That Combines All Of OPAL-RT’s....",
+    "img": "/media/2023/02/op4512-SIMULATOR.webp",
+    "href": "https://embesysindia.com/simulator-platform-op4512/"
+   },
+   {
+    "title": "OP4610 GX SIMULATOR",
+    "brand": "OPAL-RT",
+    "desc": "The OP4610XG Is OPAL-RT’s New Compact Mid-Range Simulator In Its XG Series...",
+    "img": "/media/2023/02/OP4610-GX-SIMULATOR.webp",
+    "href": "https://embesysindia.com/op4610-gx-simulator/"
+   },
+   {
+    "title": "OP5705 GX SIMULATOR",
+    "brand": "OPAL-RT",
+    "desc": "Backed By Nearly Two Decades Of Expertise In The Development...",
+    "img": "/media/2023/02/op5705-xg-SIMULATOR.webp",
+    "href": "https://embesysindia.com/op5705-xg-simulatoro/"
+   },
+   {
+    "title": "OP5707 GX SIMULATOR",
+    "brand": "OPAL-RT",
+    "desc": "The OP5707XG Offers An Unequalled Level Of FPGA Performance...",
+    "img": "/media/2023/02/OP5707-GX-SIMULATOR.webp",
+    "href": "https://embesysindia.com/op5707-xg-simulator/"
+   },
+   {
+    "title": "OP5033 GX SIMULATOR",
+    "brand": "OPAL-RT",
+    "desc": "OPAL-RT’s Primary Goal Is To Provide Users With A Real-Time...",
+    "img": "/media/2023/02/OP5033-GX-SIMULATOR.webp",
+    "href": "https://embesysindia.com/op5033-gx-simulator/"
+   },
+   {
+    "title": "OP8666",
+    "brand": "OPAL-RT",
+    "desc": "The OP8666 DSP Controller Board Is Based On The Popular...",
+    "img": "/media/2023/02/op8666.webp",
+    "href": "https://embesysindia.com/op8666/"
+   },
+   {
+    "title": "I/O and Communication Interfaces",
+    "brand": "OPAL-RT",
+    "desc": "Additional I/O Boards Can Be Purchased Individually...",
+    "img": "/media/2023/02/OP5330.webp",
+    "href": "https://embesysindia.com/i-o-and-communication-interfaces/"
+   },
+   {
+    "title": "OP1400 4-Quadrant PHIL Amplifier",
+    "brand": "OPAL-RT",
+    "desc": "The OPAL-RT OP1400 Is A 4-Quadrant Power Amplifier Featuring....",
+    "img": "/media/2023/02/op1400.webp",
+    "href": "https://embesysindia.com/op1400-4-quadrant-phil-amplifier/"
+   },
+   {
+    "title": "SLSC MODULES",
+    "brand": "OPAL-RT",
+    "desc": "Easily Access And Interact With Your Electronic Control Unit...",
+    "img": "/media/2023/02/OP8910-User-Manual.webp",
+    "href": "https://embesysindia.com/slsc-modules/"
+   },
+   {
+    "title": "Communication Protocols",
+    "brand": "OPAL-RT",
+    "desc": "Nearly Every Modern Engineering System Employs Some Sort Of Critical....",
+    "img": "/media/2023/02/Communication-Protocols.webp",
+    "href": "https://embesysindia.com/communication-protocols/"
+   },
+   {
+    "title": "FPGA and I/O Expansion Units",
+    "brand": "OPAL-RT",
+    "desc": "OPAL-RT’s Wide Selection Of Validated I/O Expansion Units Enable...",
+    "img": "/media/2023/02/FPGA-and-I-O-Expansion-Units.webp",
+    "href": "https://embesysindia.com/fpga-and-i-o-expansion-units/"
+   },
+   {
+    "title": "Power and Control",
+    "brand": "OPAL-RT",
+    "desc": "OPAL-RT Provides A Large Set Of Proprietary And Third-Party....",
+    "img": "/media/2023/02/power-and-control.webp",
+    "href": "https://embesysindia.com/power-and-control/"
+   },
+   {
+    "title": "Conditioning and Monitoring",
+    "brand": "OPAL-RT",
+    "desc": "Conditioning Of Signals And Monitoring Provide Regularized I/O...",
+    "img": "/media/2023/02/Conditioning-and-Monitoring.webp",
+    "href": "https://embesysindia.com/conditioning-and-monitoring/"
+   },
+   {
+    "title": "Accessories",
+    "brand": "OPAL-RT",
+    "desc": "Accessories Provide The Missing Adaptive Piece Between Your Testing....",
+    "img": "/media/2023/02/OP5970.webp",
+    "href": "https://embesysindia.com/accessories/"
+   }
+  ]
+ }
+]
