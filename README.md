@@ -40,3 +40,14 @@ No runtime dependencies beyond React. Inner-page links still point to embesysind
 - `/` → `HomePage.jsx` (landing sections), `/about` → `AboutPage.jsx` (content in `src/data/about.js`).
 - `internalRoutes` in `src/data/site.js` decides which nav links stay in-app; everything else still links to embesysindia.com.
 - Hosting: serve with SPA fallback to `index.html` (e.g. `npm run preview`, Netlify `_redirects`, nginx `try_files`).
+
+## Converted WordPress pages (77)
+Every public static page of embesysindia.com (products, solution labs, CAMWorks, OPAL-RT, NI, Materialise,
+3D printers, Contact, SolidWorks Innovation Day…) is a React component in `src/pages/wp/`, one file per page,
+lazy-loaded per route via `src/pages/wp/registry.js`. Slugs match the original URLs (`/turning`, `/microgrid`, …).
+
+- `src/components/LegacyPage.jsx` wraps them: scopes the original Bootstrap/Elementor/theme CSS
+  (`src/styles/legacy.css`, `.legacy`) plus each page's own CSS (`src/styles/pages/<slug>.css`, `.page-<slug>`),
+  and re-implements Bootstrap modal / collapse / tab toggles. Forms show a notice until a backend is wired.
+- Not converted (not static): employee portal, CRM/leads, attendance, shop/cart/checkout, login/registration and test pages.
+- Regenerate: `tools/convert-wp-pages.py` (HTML → JSX + image mirroring) then `node scripts/scope-css.mjs`.

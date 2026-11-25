@@ -1,0 +1,108 @@
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7:not(.elementor-motion-effects-element-type-background), .page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url("/media/2025/09/product-banner-all.webp");
+  background-position: 0 -122px;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7 > .elementor-background-overlay {
+  opacity: .73;
+  background-color: #000;
+  transition: background .3s, border-radius .3s, opacity .3s;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7 > .elementor-container {
+  max-width: 1600px;
+  min-height: 220px;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7 {
+  transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+}
+
+.page-form-4bl .elementor-widget-heading .elementor-heading-title {
+  font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-primary-font-weight);
+  color: var(--e-global-color-primary);
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-7d16ebe {
+  text-align: center;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-7d16ebe .elementor-heading-title {
+  color: #fff;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-48489f8 {
+  text-align: center;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-48489f8 .elementor-heading-title {
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.page-form-4bl .elementor-widget-text-editor {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+  color: var(--e-global-color-text);
+}
+
+.page-form-4bl .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+  background-color: var(--e-global-color-primary);
+}
+
+.page-form-4bl .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .page-form-4bl .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+  color: var(--e-global-color-primary);
+  border-color: var(--e-global-color-primary);
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-1dff518 > .elementor-widget-container {
+  margin: 49px 0 0;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-1dff518 {
+  text-align: justify;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-19cf247 > .elementor-widget-container {
+  padding: 10px 0 0;
+}
+
+.page-form-4bl .elementor-widget-image .widget-image-caption {
+  color: var(--e-global-color-text);
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-ada856e > .elementor-widget-container {
+  padding: 0 0 0 10px;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-ada856e, .page-form-4bl .elementor-8435 .elementor-element.elementor-element-4aeb7bc {
+  text-align: justify;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-f85a2f8 {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-size: 1px;
+  font-weight: 400;
+}
+
+.page-form-4bl .elementor-8435 .elementor-element.elementor-element-f85a2f8 p {
+  margin-bottom: 0;
+}
+
+@media (width <= 1024px) {
+  .page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7:not(.elementor-motion-effects-element-type-background), .page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-position: 0 0;
+  }
+}
+
+@media (width <= 767px) {
+  .page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7:not(.elementor-motion-effects-element-type-background), .page-form-4bl .elementor-8435 .elementor-element.elementor-element-e4f58a7 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-position: 0 0;
+  }
+}

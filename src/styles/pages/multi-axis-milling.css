@@ -1,0 +1,311 @@
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-1b1dafe {
+  border-style: solid;
+  border-width: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.page-multi-axis-milling .elementor-widget-heading .elementor-heading-title {
+  font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-primary-font-weight);
+  color: var(--e-global-color-primary);
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-574bbbc > .elementor-widget-container {
+  padding: 10px 0 0;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-574bbbc {
+  text-align: center;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-574bbbc .elementor-heading-title {
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Gilda Display, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.page-multi-axis-milling .elementor-widget-text-editor {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+  color: var(--e-global-color-text);
+}
+
+.page-multi-axis-milling .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+  background-color: var(--e-global-color-primary);
+}
+
+.page-multi-axis-milling .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .page-multi-axis-milling .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+  color: var(--e-global-color-primary);
+  border-color: var(--e-global-color-primary);
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-89a0d0e > .elementor-widget-container {
+  padding: 0 0 30px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-89a0d0e {
+  text-align: left;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8808766:not(.elementor-motion-effects-element-type-background), .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8808766 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: #e2eaff;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8808766 {
+  padding: 20px 0 30px;
+  transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8808766 > .elementor-background-overlay {
+  transition: background .3s, border-radius .3s, opacity .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-a110fe2 > .elementor-widget-container {
+  padding: 0 0 0 10px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-a110fe2 {
+  text-align: left;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-weight: 400;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-3c92ed7 > .elementor-widget-container {
+  padding: 0;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-3c92ed7 {
+  text-align: center;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-3c92ed7 .elementor-heading-title {
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Gilda Display, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.page-multi-axis-milling .elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {
+  border-color: var(--e-global-color-text);
+}
+
+.page-multi-axis-milling .elementor-widget-icon-list .elementor-icon-list-icon i {
+  color: var(--e-global-color-primary);
+}
+
+.page-multi-axis-milling .elementor-widget-icon-list .elementor-icon-list-icon svg {
+  fill: var(--e-global-color-primary);
+}
+
+.page-multi-axis-milling .elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .page-multi-axis-milling .elementor-widget-icon-list .elementor-icon-list-item > a {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.page-multi-axis-milling .elementor-widget-icon-list .elementor-icon-list-text {
+  color: var(--e-global-color-secondary);
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8f50ad7 .elementor-icon-list-icon i {
+  color: #719c06;
+  transition: color .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8f50ad7 .elementor-icon-list-icon svg {
+  fill: #719c06;
+  transition: fill .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8f50ad7 {
+  --e-icon-list-icon-size: 14px;
+  --icon-vertical-offset: 0px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8f50ad7 .elementor-icon-list-item > .elementor-icon-list-text, .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8f50ad7 .elementor-icon-list-item > a {
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-8f50ad7 .elementor-icon-list-text {
+  color: #0c376a;
+  transition: color .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-df62fc5 > .elementor-widget-container {
+  padding: 0 0 0 10px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-df62fc5 {
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-cf1c1dc > .elementor-widget-container {
+  padding: 0;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-cf1c1dc {
+  text-align: left;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-cf1c1dc .elementor-heading-title {
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-b75a1db > .elementor-widget-container {
+  padding: 0 0 0 10px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-b75a1db {
+  text-align: left;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-multi-axis-milling .elementor-widget-image .widget-image-caption {
+  color: var(--e-global-color-text);
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-cc53ab3 > .elementor-widget-container {
+  padding: 0;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-cc53ab3 {
+  text-align: left;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-cc53ab3 .elementor-heading-title {
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: 2.5px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+  margin-top: 2.5px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-items.elementor-inline-items {
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+}
+
+.page-multi-axis-milling.rtl .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+  left: -2.5px;
+}
+
+.page-multi-axis-milling:not(.rtl) .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+  right: -2.5px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-icon i {
+  color: #719c06;
+  transition: color .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-icon svg {
+  fill: #719c06;
+  transition: fill .3s;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 {
+  --e-icon-list-icon-size: 14px;
+  --e-icon-list-icon-align: left;
+  --e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0;
+  --icon-vertical-offset: 0px;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-item > .elementor-icon-list-text, .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-item > a {
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-718ed51 .elementor-icon-list-text {
+  color: #0c376a;
+  transition: color .3s;
+}
+
+.page-multi-axis-milling .elementor-widget-button .elementor-button {
+  background-color: var(--e-global-color-accent);
+  font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-7bb2cb2 .elementor-button {
+  background-color: #0c376a;
+  border-radius: 5px;
+  font-family: Barlow, sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-7bb2cb2 .elementor-button:hover, .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-7bb2cb2 .elementor-button:focus {
+  color: #0c376a;
+  background-color: #e2eaff;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-7bb2cb2 > .elementor-widget-container {
+  padding: 15px 0;
+}
+
+.page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-7bb2cb2 .elementor-button:hover svg, .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-7bb2cb2 .elementor-button:focus svg {
+  fill: #0c376a;
+}
+
+@media (width >= 768px) {
+  .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-16ae698 {
+    width: 66.518%;
+  }
+
+  .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-afa0726 {
+    width: 33.438%;
+  }
+
+  .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-41ce97e {
+    width: 34.78%;
+  }
+
+  .page-multi-axis-milling .elementor-1306 .elementor-element.elementor-element-c4e43a9 {
+    width: 65.176%;
+  }
+}
+
+.page-multi-axis-milling .contact .container .row.flex-row-reverse .col-md-6 .location-content {
+  padding-left: 20%;
+}

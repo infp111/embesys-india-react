@@ -1,0 +1,134 @@
+.page-myrio .elementor-885 .elementor-element.elementor-element-b1118e2 {
+  border-style: solid;
+  border-width: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.page-myrio .elementor-widget-heading .elementor-heading-title {
+  font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-primary-font-weight);
+  color: var(--e-global-color-primary);
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-8a73a9d > .elementor-widget-container {
+  padding: 10px 0 0;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-8a73a9d {
+  text-align: center;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-8a73a9d .elementor-heading-title {
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Gilda Display, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.page-myrio .elementor-widget-text-editor {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+  color: var(--e-global-color-text);
+}
+
+.page-myrio .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+  background-color: var(--e-global-color-primary);
+}
+
+.page-myrio .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .page-myrio .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+  color: var(--e-global-color-primary);
+  border-color: var(--e-global-color-primary);
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-d117891 > .elementor-widget-container {
+  padding: 0 0 30px;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-d117891 {
+  text-align: left;
+  letter-spacing: 1px;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-568352d:not(.elementor-motion-effects-element-type-background), .page-myrio .elementor-885 .elementor-element.elementor-element-568352d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: #e2eaff;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-568352d {
+  padding: 20px 0 30px;
+  transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-568352d > .elementor-background-overlay {
+  transition: background .3s, border-radius .3s, opacity .3s;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-3944a16 > .elementor-widget-container {
+  padding: 0;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-3944a16 {
+  text-align: center;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-3944a16 .elementor-heading-title {
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Gilda Display, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.page-myrio .elementor-widget-image .widget-image-caption {
+  color: var(--e-global-color-text);
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.page-myrio .elementor-widget-button .elementor-button {
+  background-color: var(--e-global-color-accent);
+  font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-fc82af7 .elementor-button {
+  background-color: #0c376a;
+  border-radius: 5px;
+  font-family: Barlow, sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-fc82af7 .elementor-button:hover, .page-myrio .elementor-885 .elementor-element.elementor-element-fc82af7 .elementor-button:focus {
+  color: #0c376a;
+  background-color: #e2eaff;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-fc82af7 > .elementor-widget-container {
+  padding: 15px 0;
+}
+
+.page-myrio .elementor-885 .elementor-element.elementor-element-fc82af7 .elementor-button:hover svg, .page-myrio .elementor-885 .elementor-element.elementor-element-fc82af7 .elementor-button:focus svg {
+  fill: #0c376a;
+}
+
+@media (width >= 768px) {
+  .page-myrio .elementor-885 .elementor-element.elementor-element-976f526 {
+    width: 49.908%;
+  }
+
+  .page-myrio .elementor-885 .elementor-element.elementor-element-c506489 {
+    width: 50.048%;
+  }
+}
+
+.page-myrio .contact .container .row.flex-row-reverse .col-md-6 .location-content {
+  padding-left: 20%;
+}

@@ -1,0 +1,52 @@
+.page-3d-cad .contact .container .row.flex-row-reverse .col-md-6 .location-content {
+  padding-left: 20%;
+}
+
+.page-3d-cad .elementor-heading-title {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+.page-3d-cad .elementor-widget-heading .elementor-heading-title[class*="elementor-size-"] > a {
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.page-3d-cad .elementor-widget-heading .elementor-heading-title.elementor-size-small {
+  font-size: 15px;
+}
+
+.page-3d-cad .elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+  font-size: 19px;
+}
+
+.page-3d-cad .elementor-widget-heading .elementor-heading-title.elementor-size-large {
+  font-size: 29px;
+}
+
+.page-3d-cad .elementor-widget-heading .elementor-heading-title.elementor-size-xl {
+  font-size: 39px;
+}
+
+.page-3d-cad .elementor-widget-heading .elementor-heading-title.elementor-size-xxl {
+  font-size: 59px;
+}
+
+.page-3d-cad .elementor-widget-image {
+  text-align: center;
+}
+
+.page-3d-cad .elementor-widget-image a {
+  display: inline-block;
+}
+
+.page-3d-cad .elementor-widget-image a img[src$=".svg"] {
+  width: 48px;
+}
+
+.page-3d-cad .elementor-widget-image img {
+  vertical-align: middle;
+  display: inline-block;
+}

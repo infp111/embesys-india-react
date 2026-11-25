@@ -250,3 +250,11 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
   .abu-mv__title { font-size: 1.5rem; }
   .abu-intro__content { text-align: left; }
 }
+
+/* ---------- Converted WordPress pages ---------- */
+.legacy { font-family: var(--body); }
+.legacy img { max-width: 100%; height: auto; }
+.legacy iframe { max-width: 100%; }
+.legacy .modal { overflow-y: auto; }
+.legacy-toast { position: fixed; left: 50%; bottom: 30px; transform: translateX(-50%); z-index: 2000; max-width: 560px; width: calc(100% - 40px); background: #222; color: #fff; padding: 16px 20px; border-left: 4px solid var(--orange); border-radius: 6px; box-shadow: 0 10px 30px rgba(0,0,0,.25); font-size: 14.5px; cursor: pointer; }
+.page-loading { min-height: 60vh; display: flex; align-items: center; justify-content: center; color: var(--text); font-family: var(--cond); letter-spacing: 3px; text-transform: uppercase; }

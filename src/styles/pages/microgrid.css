@@ -1,0 +1,10 @@
+.page-microgrid .elementor-8148 .elementor-element.elementor-element-c02e53f > .elementor-container {
+  max-width: 1600px;
+}
+
+.page-microgrid .elementor-8148 .elementor-element.elementor-element-c9bdbcf {
+  width: var(--container-widget-width, 100%);
+  --container-widget-width: 100%;
+  --container-widget-flex-grow: 0;
+  max-width: 100%;
+}

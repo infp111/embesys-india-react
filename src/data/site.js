@@ -1,5 +1,11 @@
+import { wpSlugs } from '../pages/wp/slugs';
 export const WP = 'https://embesysindia.com';
-const u = (p) => (p.startsWith('http') ? p : `${WP}/${p.replace(/^\//, '')}`);
+// Pages rebuilt in React resolve to in-app routes; anything else links to the original WordPress site.
+const u = (p) => {
+  const m = p.match(/^\/([a-z0-9_-]+)\/?$/);
+  if (m && wpSlugs.includes(m[1])) return `/${m[1]}`;
+  return p.startsWith('http') ? p : `${WP}/${p.replace(/^\//, '')}`;
+};
 // Images are served locally from /public/media (mirrored from /wp-content/uploads, converted to WebP)
 const img = (p) => `/media/${p.replace(/^\/?wp-content\/uploads\//, '').replace(/\.(png|jpe?g)$/i, '.webp')}`;
 
@@ -21,7 +27,11 @@ export const logos = {
 };
 
 // Pages rebuilt in React are routed in-app; everything else still links to the WordPress site.
-export const internalRoutes = { '/': '/', '/about/': '/about' };
+export const internalRoutes = {
+  '/': '/',
+  '/about/': '/about',
+  ...Object.fromEntries(wpSlugs.map((s) => [`/${s}/`, `/${s}`])),
+};
 const L = (label, href = '#', children) => ({
   label,
   href: href === '#' ? '#' : internalRoutes[href] || u(href),
@@ -153,7 +163,7 @@ export const heroSlides = [
   { img: img('/wp-content/uploads/2025/08/AI.png'), alt: 'AI & Robotics Solution', href: u('/ai-ml/') },
   { img: img('/wp-content/uploads/2025/09/3-1.png'), alt: 'Condition Based Monitoring', href: u('/condition-based-monitoring/') },
   { img: img('/wp-content/uploads/2025/08/EV.png'), alt: 'Electric Vehicle Lab', href: u('/ev/') },
-  { img: img('/wp-content/uploads/2025/08/Healthcare.png'), alt: 'Healthcare Lab Solution', href: u('/biomedical/') },
+  { img: img('/wp-content/uploads/2025/08/Healthcare.png'), alt: 'Healthcare Lab Solution', href: u('/healthcare-solution/') },
   { img: img('/wp-content/uploads/2025/08/MICROGRID.png'), alt: 'Smart Microgrid Lab', href: u('/microgrid/') },
   { img: img('/wp-content/uploads/2025/09/2-1.png'), alt: 'RF Communication Solution', href: u('/rf-communication/') },
   { img: img('/wp-content/uploads/2025/08/Structural.png'), alt: 'Structural Health Monitoring', href: u('/structural-health-monitoring/') },

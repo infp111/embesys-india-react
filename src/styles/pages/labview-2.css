@@ -1,0 +1,102 @@
+.page-labview-2 .elementor-9641 .elementor-element.elementor-element-58b2a28 > .elementor-container {
+  max-width: 1600px;
+}
+
+.page-labview-2 .lvp-banner-wrapper {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.page-labview-2 .lvp-banner-wrapper img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.page-labview-2 .lvp-banner-overlay {
+  z-index: 1;
+  background: #00000038;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.page-labview-2 .lvp-wide {
+  max-width: 1300px;
+}
+
+.page-labview-2 .lvp-key-feature-card {
+  border: none;
+  border-radius: 8px;
+  transition: transform .25s, box-shadow .25s;
+  box-shadow: 0 4px 16px #00000014;
+}
+
+.page-labview-2 .lvp-key-feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px #0000001f;
+}
+
+.page-labview-2 .lvp-tick-green {
+  color: #28a745;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.page-labview-2 img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (width <= 991.98px) {
+  .page-labview-2 .lvp-banner-wrapper {
+    height: 320px;
+  }
+
+  .page-labview-2 .lvp-wide {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (width <= 767.98px) {
+  .page-labview-2 h2, .page-labview-2 h3 {
+    font-size: 1.5rem;
+  }
+
+  .page-labview-2 h5 {
+    font-size: 1.1rem;
+  }
+
+  .page-labview-2 .card-body {
+    padding: 1.25rem !important;
+  }
+
+  .page-labview-2 .mb-5 {
+    margin-bottom: 2rem !important;
+  }
+}
+
+@media (width <= 575.98px) {
+  .page-labview-2 .lvp-banner-wrapper {
+    height: 240px;
+  }
+
+  .page-labview-2 ul {
+    padding-left: 1rem;
+  }
+
+  .page-labview-2 .lvp-tick-green {
+    font-size: 16px;
+  }
+}
+
+.page-labview-2 li, .page-labview-2 h2, .page-labview-2 h3 {
+  color: #0c376a;
+}

@@ -1,0 +1,143 @@
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-767fc5e {
+  border-style: solid;
+  border-width: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.page-solidworks-pdm .elementor-widget-heading .elementor-heading-title {
+  font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-primary-font-weight);
+  color: var(--e-global-color-primary);
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-7d3664a > .elementor-widget-container {
+  padding: 10px 0 0;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-7d3664a {
+  text-align: center;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-7d3664a .elementor-heading-title {
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Gilda Display, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.page-solidworks-pdm .elementor-widget-text-editor {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+  color: var(--e-global-color-text);
+}
+
+.page-solidworks-pdm .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+  background-color: var(--e-global-color-primary);
+}
+
+.page-solidworks-pdm .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .page-solidworks-pdm .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+  color: var(--e-global-color-primary);
+  border-color: var(--e-global-color-primary);
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-b507cd2 > .elementor-widget-container {
+  padding: 0 0 30px;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-b507cd2 {
+  text-align: left;
+  letter-spacing: 1px;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-15d2877:not(.elementor-motion-effects-element-type-background), .page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-15d2877 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: #e2eaff;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-15d2877 {
+  padding: 20px 0 30px;
+  transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-15d2877 > .elementor-background-overlay {
+  transition: background .3s, border-radius .3s, opacity .3s;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-936e4ae > .elementor-widget-container {
+  padding: 0;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-936e4ae {
+  text-align: center;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-936e4ae .elementor-heading-title {
+  letter-spacing: 1.5px;
+  color: #0c376a;
+  font-family: Gilda Display, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-c6f5f8d {
+  text-align: left;
+  color: #0c376a;
+  font-family: Barlow, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.page-solidworks-pdm .elementor-widget-image .widget-image-caption {
+  color: var(--e-global-color-text);
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.page-solidworks-pdm .elementor-widget-button .elementor-button {
+  background-color: var(--e-global-color-accent);
+  font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-9563b0f .elementor-button {
+  background-color: #0c376a;
+  border-radius: 5px;
+  font-family: Barlow, sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-9563b0f .elementor-button:hover, .page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-9563b0f .elementor-button:focus {
+  color: #0c376a;
+  background-color: #e2eaff;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-9563b0f > .elementor-widget-container {
+  padding: 15px 0;
+}
+
+.page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-9563b0f .elementor-button:hover svg, .page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-9563b0f .elementor-button:focus svg {
+  fill: #0c376a;
+}
+
+@media (width >= 768px) {
+  .page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-2d58247 {
+    width: 65.621%;
+  }
+
+  .page-solidworks-pdm .elementor-1166 .elementor-element.elementor-element-cf6da84 {
+    width: 34.335%;
+  }
+}
+
+.page-solidworks-pdm .contact .container .row.flex-row-reverse .col-md-6 .location-content {
+  padding-left: 20%;
+}

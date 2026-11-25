@@ -1,0 +1,27 @@
+.page-mechatronics .elementor-9478 .elementor-element.elementor-element-7d196d9 > .elementor-container {
+  max-width: 1600px;
+}
+
+.page-mechatronics .feature-list ul li {
+  padding-left: 25px;
+  list-style: none;
+  position: relative;
+}
+
+.page-mechatronics .feature-list ul li:before {
+  content: "✔";
+  color: #2e7d32;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.page-mechatronics strong {
+  color: #f07700;
+}
+
+.page-mechatronics .component {
+  background-color: #fff;
+  border-radius: 20px;
+}
